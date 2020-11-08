@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f56f3bc-642f-4801-90a8-8a7334d3bd16" name="Default Changelist" comment="" />
+    <list default="true" id="0f56f3bc-642f-4801-90a8-8a7334d3bd16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/upgrade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/upgrade.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="0c8fa580-9296-4217-a769-eadec3e6300c" />
   <component name="ProjectId" id="1jp8AoMTzRucC7V8K1cB7SmDV7s" />
@@ -15,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/vervreqests" />
   </component>
@@ -23,7 +50,7 @@
       <recent name="C:\Users\lemon\Desktop\upgrade\vervreqests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03.deep copy and swallow copy">
+  <component name="RunManager" selected="Python.05.iterable &amp; iterator object">
     <configuration name="02.immutable &amp; mutable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="upgrade" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,6 +95,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="04.list comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="upgrade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vervreqests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vervreqests/04.list comprehension.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05.iterable &amp; iterator object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="upgrade" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/vervreqests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vervreqests/05.iterable &amp; iterator object.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="upgrade" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,6 +163,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05.iterable &amp; iterator object" />
+        <item itemvalue="Python.04.list comprehension" />
         <item itemvalue="Python.03.deep copy and swallow copy" />
         <item itemvalue="Python.02.immutable &amp; mutable" />
       </list>
@@ -105,33 +178,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604489531931</updated>
-      <workItem from="1604489533231" duration="5350000" />
+      <workItem from="1604489533231" duration="5568000" />
+      <workItem from="1604708111435" duration="3608000" />
+      <workItem from="1604737306872" duration="1653000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1604495409725">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1604738961505">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604495409725" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1604495409725">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604738961505" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1604738961505">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604495409725" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1604495409725">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604738961505" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1604738961505">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604495409725" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1604495409725">
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604738961505" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1604738961505">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604495409725" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604738961505" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/upgrade$05_iterable___iterator_object.coverage" NAME="05.iterable &amp; iterator object Coverage Results" MODIFIED="1604738879976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vervreqests" />
     <SUITE FILE_PATH="coverage/upgrade$03_deep_copy_and_swallow_copy.coverage" NAME="03.deep copy and swallow copy Coverage Results" MODIFIED="1604495409717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vervreqests" />
     <SUITE FILE_PATH="coverage/upgrade$02_immutable___mutable.coverage" NAME="02.immutable &amp; mutable Coverage Results" MODIFIED="1604492481439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vervreqests" />
+    <SUITE FILE_PATH="coverage/upgrade$04_list_comprehension.coverage" NAME="04.list comprehension Coverage Results" MODIFIED="1604711363722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vervreqests" />
   </component>
 </project>
