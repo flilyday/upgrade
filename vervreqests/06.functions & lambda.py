@@ -26,7 +26,7 @@ def say2():
     print('hi')
 
 def caller(fct):
-    fct() #fct를 통해 매개변수로 함수를 호. 함수도 객체이기 때문에 매개변수로 전달하고 반환이 가능하다.
+    fct() #fct를 통해 매개변수로 함수를 호출. 함수도 객체이기 때문에 매개변수로 전달하고 반환이 가능하다.
 
 caller(say1)
 caller(say2)
